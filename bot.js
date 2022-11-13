@@ -41,21 +41,21 @@ global.pengguna = 'Max' //username
 global.footer = 'ZIM BOT INC'
 global.botnma = 'ZIM BOT INC' //bot name
 global.botname = 'ZIM BOT V4'
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.ownernma = 'Mad Max' //owner name
+global.packname = '🍭 ᴛᴏxɪᴄ ᴍᴀx sᴛɪᴄᴋᴇʀ ʙᴏᴛ 🍭' //sticker package name
+global.author = 'By Mad max' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //sp
-global.dripstyping = false
+global.dripstyping = true
 global.dripsreadgroup = false
 global.dripsreadall = false
 global.dripsrecord = false
-global.available = false
+global.available = true
 global.unavailable = true
 global.limittot = 100,
 global.thumb = fs.readFileSync('./Zimbot/drips.jpg')
-global.reactmoji = '🇿🇼'
+global.reactmoji = '🇮🇳'
 global.imgjoinrpg = fs.readFileSync('./image/joinrpg.jpg')
 global.imgmining = fs.readFileSync('./image/mining.jpg')
 global.imgdevil = fs.readFileSync('./image/img/devil.jpg')
@@ -72,9 +72,9 @@ global.f5 = 'application/pdf'
 global.f6 = 'application/vnd.android.package-archive'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.mess = {
-    success: 'Takaenda Done!',
-    admin: '*This feature is only for admin!*',
-    botAdmin: '*zim bot  must be admin first!*',
+    success: '  Done! Boss ',
+    admin: '*This feature is only for admin! Sorry 😞*',
+    botAdmin: '*zim bot  must be admin first! 😼*',
     owner: '*this feature is only for zimbot owner*',
     group: '*Feature is only for groups!*',
     grouponly: '*Group Mode Only*',
